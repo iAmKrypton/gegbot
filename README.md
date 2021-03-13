@@ -1,0 +1,2 @@
+# gegbot
+the actual bot 
